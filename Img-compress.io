@@ -723,7 +723,7 @@
                     <div class="ad-placeholder">
                         <!-- Replace with your AdSense code -->
                         <p>Ad Space (300x600)</p>
-                        <p>Insert AdSense code here</p>
+                        <p>ca-app-pub-5758492046704143/1894674784</p>
                     </div>
                 </div>
             </div>
